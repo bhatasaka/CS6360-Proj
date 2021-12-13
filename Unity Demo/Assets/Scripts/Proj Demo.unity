@@ -778,10 +778,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bar: {fileID: 579442620}
   Voltage: 0
+  MinVoltage: 5
+  MaxVoltage: 40
   PulseWidth: 0
   Frequency: 0
-  IP: 192.168.0.231
-  Port: 23
+  IP: 172.21.209.16
+  Port: 6360
 --- !u!4 &964292408
 Transform:
   m_ObjectHideFlags: 0
@@ -1071,7 +1073,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: -90}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.515, y: 0.01}
+  m_AnchoredPosition: {x: -0.715, y: 0.01}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2016249785

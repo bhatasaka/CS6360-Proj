@@ -11,6 +11,8 @@ public class LifterManager : MonoBehaviour
     const float maxHeight = 0.8f;
 
     public int Voltage = 20;
+    public int MinVoltage = 5;
+    public int MaxVoltage = 40;
     public int PulseWidth = 400;
     public int Frequency = 30;
 
@@ -69,7 +71,8 @@ public class LifterManager : MonoBehaviour
             }
             else if (client.Connection == AsynchronousClient.ConnectionStatus.Connected)
             {
-                lifter.Voltage = Voltage;
+                // Calculate the proportional voltage that should be sent to the device
+                lifter.Voltage = (int)((MaxVoltage - MinVoltage) * relHeight) + MinVoltage;
                 lifter.PulseWidth = PulseWidth;
                 lifter.Frequency = Frequency;
                 client.Send(lifter.BuildFulllMessage());
