@@ -11,7 +11,7 @@ This is the landing page for my CS 6360 final project. This project is a device 
     - [Inspiration](#inspiration)
     - [Why This Project?](#why-this-project)
     - [Why now?](#why-now)
-- [Features](#features)
+- [Features](features.md)
 - [Video](#video)
 - [Images](#images)
 - [Logo](#logo)
@@ -22,6 +22,7 @@ This is the landing page for my CS 6360 final project. This project is a device 
 * Release date: 12/13/2021
 * Platforms: Oculus headsets (Rift, Rift S, Quest 2 with Oculus Link), on PC
 * Website: https://github.com/bhatasaka/CS6360-Proj
+* Repository: https://github.com/bhatasaka/CS6360-Proj
 
 ## Pitch
 This project is about a device that uses neuromuscular electrical stimulation (NMES) to stimulate muscles and simulate weight while in VR environments. This is unlike other products such as the [Tesla Suit](https://teslasuit.io/) or [Haptx](https://haptx.com/) that use haptic feedback and mechanical devices to simulate forces. NMES provides a lightweight, energy efficient solution that actually uses your muscles themselves to provide the forcess needed for weight.
@@ -53,7 +54,7 @@ The device is very lightweight and using it doesn't hurt the VR experience with 
 The intensity of the muscle stimulation is adjustable across a wide range of parameters to allow the user to stay comfortable. One item of concern is that muscle stimuation can increase over time as moisture builds up underneath the electrodes. The adjustable parameters allow any increase in stimulation to be compensated for to keep a comportable and immersive VR experience.
 
 ## Video
-See a quick behind-the-scenes type video here!
+[See a quick behind-the-scenes type video here!](https://youtu.be/nmCx5fpMcdc)
 
 ## Images
 
@@ -74,14 +75,3 @@ Contact Information
 
 <br>
 <div><img src="images/u-engineering-logo.svg" alt="U ECE logo" width=300></div>
-
-<br>
-<br>
-
-# Repository Structure
-## Files
-- `ESP` - contains code for the ESP32 used as the WiFi device MCU
-- `ltspice` - contains LTSpice schematics and simulations for the circuit
-- `Unity Demo` - contains Unity Project that makes up the simple demo
-- `images` - contains images for the above project description
-- `screenshots` - contains images of oscilloscope traces and project photos
