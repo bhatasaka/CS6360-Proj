@@ -11,7 +11,7 @@ This is the landing page for my CS 6360 final project. This project is a device 
     - [Inspiration](#inspiration)
     - [Why This Project?](#why-this-project)
     - [Why now?](#why-now)
-- [Features](features.md)
+- [Features](#features)
 - [Video](#video)
 - [Images](#images)
 - [Logo](#logo)
@@ -21,8 +21,8 @@ This is the landing page for my CS 6360 final project. This project is a device 
 * Project by Bryan Hatasaka
 * Release date: 12/13/2021
 * Platforms: Oculus headsets (Rift, Rift S, Quest 2 with Oculus Link), on PC
-* Website: https://github.com/bhatasaka/CS6360-Proj
-* Repository: https://github.com/bhatasaka/CS6360-Proj
+* [Website](https://github.com/bhatasaka/CS6360-Proj)
+* [Repository](https://github.com/bhatasaka/CS6360-Proj)
 
 ## Pitch
 This project is about a device that uses neuromuscular electrical stimulation (NMES) to stimulate muscles and simulate weight while in VR environments. This is unlike other products such as the [Tesla Suit](https://teslasuit.io/) or [Haptx](https://haptx.com/) that use haptic feedback and mechanical devices to simulate forces. NMES provides a lightweight, energy efficient solution that actually uses your muscles themselves to provide the forcess needed for weight.
@@ -57,9 +57,26 @@ The intensity of the muscle stimulation is adjustable across a wide range of par
 [See a quick behind-the-scenes type video here!](https://youtu.be/nmCx5fpMcdc)
 
 ## Images
+Closeup view of device
+<div><img src="images/SNY01719.JPG" alt="Project logo" width=500></div>
+
+Device with connections shown
+<div><img src="images/SNY01720.JPG" alt="Project logo" width=500></div>
+
+Device fully connected to electrode pads and battery bank
+<div><img src="images/SNY01751.JPG" alt="Project logo" width=500></div>
+
+Holding the device for scale
+<div><img src="images/hold-device.jpg" alt="Project logo" width=500></div>
+
+Example of using the device completely untethered with an Oculus Quest 2
+<div><img src="images/using.jpg" alt="Project logo" width=500></div>
+
+The schematic of one of the circuits contained within the device
+<div><img src="images/electrode circuit.png" alt="Project logo" width=600></div>
 
 ## Logo
-<div><img src="https://media.githubusercontent.com/media/bhatasaka/CS6360-Proj/main/docs/images/Logo.png" alt="Project logo" width=400></div>
+<div><img src="https://raw.githubusercontent.com/bhatasaka/CS6360-Proj/main/docs/images/logo.png" alt="Project logo" width=400></div>
 
 ## About
 ### The Development Team
