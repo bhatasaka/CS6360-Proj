@@ -21,8 +21,8 @@ This is the landing page for my CS 6360 final project. This project is a device 
 * Project by Bryan Hatasaka
 * Release date: 12/13/2021
 * Platforms: Oculus headsets (Rift, Rift S, Quest 2 with Oculus Link), on PC
-* Website: https://github.com/bhatasaka/CS6360-Proj
-* Repository: https://github.com/bhatasaka/CS6360-Proj
+* [Website](https://github.com/bhatasaka/CS6360-Proj)
+* [Repository](https://github.com/bhatasaka/CS6360-Proj)
 
 ## Pitch
 This project is about a device that uses neuromuscular electrical stimulation (NMES) to stimulate muscles and simulate weight while in VR environments. This is unlike other products such as the [Tesla Suit](https://teslasuit.io/) or [Haptx](https://haptx.com/) that use haptic feedback and mechanical devices to simulate forces. NMES provides a lightweight, energy efficient solution that actually uses your muscles themselves to provide the forcess needed for weight.
