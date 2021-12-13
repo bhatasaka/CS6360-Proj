@@ -2,7 +2,6 @@
 Bryan Hatasaka | December 2021
 
 ## About
----
 This is the landing page for my CS 6360 final project. This project is a device that can be attached to a user and allows "weight" to be felt in VR. It is powered from any USB battery bank and connects to VR applications over WiFi. Power consumption is low and intensity is adjustable. An extremely basic Unity application can be used to demo this effect. See details below!
 ## Contents
 - [Factsheet](#factsheet)
@@ -59,7 +58,7 @@ See a quick behind-the-scenes type video here!
 ## Images
 
 ## Logo
-<div><img src="images/logo.png" alt="Project logo" style="max-width: 400px"></div>
+<div><img src="images/Logo.png" alt="Project logo" wdith=400></div>
 
 ## About
 ### The Development Teams
@@ -74,7 +73,7 @@ Contact Information
 - Faculty Sponsor, Rogelio E. Cardona-Rivera, Ph.D.
 
 <br>
-<div><img src="images/u-engineering-logo.svg" alt="U ECE logo" style="max-width: 300px"></div>
+<div><img src="images/u-engineering-logo.svg" alt="U ECE logo" width=300></div>
 
 <br>
 <br>
