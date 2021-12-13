@@ -57,6 +57,23 @@ The intensity of the muscle stimulation is adjustable across a wide range of par
 [See a quick behind-the-scenes type video here!](https://youtu.be/nmCx5fpMcdc)
 
 ## Images
+Closeup view of device
+<div><img src="images/SNY01719.JPG" alt="Project logo" width=500></div>
+
+Device with connections shown
+<div><img src="images/SNY01720.JPG" alt="Project logo" width=500></div>
+
+Device fully connected to electrode pads and battery bank
+<div><img src="images/SNY01751.JPG" alt="Project logo" width=500></div>
+
+Holding the device for scale
+<div><img src="images/hold-device.jpg" alt="Project logo" width=500></div>
+
+Example of using the device completely untethered with an Oculus Quest 2
+<div><img src="images/using.jpg" alt="Project logo" width=500></div>
+
+The schematic of one of the circuits contained within the device
+<div><img src="images/electrode circuit.png" alt="Project logo" width=600></div>
 
 ## Logo
 <div><img src="https://raw.githubusercontent.com/bhatasaka/CS6360-Proj/main/docs/images/logo.png" alt="Project logo" width=400></div>
