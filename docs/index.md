@@ -59,7 +59,7 @@ The intensity of the muscle stimulation is adjustable across a wide range of par
 ## Images
 
 ## Logo
-<div><img src="images/logo-copy.png" alt="Project logo" width=400></div>
+<div><img src="https://media.githubusercontent.com/media/bhatasaka/CS6360-Proj/main/docs/images/Logo.png" alt="Project logo" width=400></div>
 
 ## About
 ### The Development Team
