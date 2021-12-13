@@ -11,7 +11,7 @@ This is the landing page for my CS 6360 final project. This project is a device 
     - [Inspiration](#inspiration)
     - [Why This Project?](#why-this-project)
     - [Why now?](#why-now)
-- [Features](features.md)
+- [Features](#features)
 - [Video](#video)
 - [Images](#images)
 - [Logo](#logo)
@@ -59,7 +59,7 @@ The intensity of the muscle stimulation is adjustable across a wide range of par
 ## Images
 
 ## Logo
-<div><img src="https://media.githubusercontent.com/media/bhatasaka/CS6360-Proj/main/docs/images/Logo.png" alt="Project logo" width=400></div>
+<div><img src="https://raw.githubusercontent.com/bhatasaka/CS6360-Proj/main/docs/images/logo.png" alt="Project logo" width=400></div>
 
 ## About
 ### The Development Team
