@@ -58,10 +58,10 @@ See a quick behind-the-scenes type video here!
 ## Images
 
 ## Logo
-<div><img src="images/Logo.png" alt="Project logo" wdith=400></div>
+<div><img src="images/Logo.png" alt="Project logo" width=400></div>
 
 ## About
-### The Development Teams
+### The Development Team
 I, Bryan, am the sole member of my team. I came to enroll in the class through my roomate - he went to the first class and gave it a raving review so I decided to drop one of the other classes that I was enrolled and less interested it, and enrolled in Virtual Reality. This is my last semester at the University of Utah so I wanted to take a fun class that could provide a unique and fun experience.
 
 Because I am the only member of my teams, I did all of the work. However, I do have some experience from my friends' startup which gave me a boost in engineering the NMES circuitry. As stated before, no code, hardware, nor schematics from the company were used in the design and implementation of this project.
